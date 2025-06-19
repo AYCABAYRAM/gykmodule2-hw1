@@ -1,3 +1,8 @@
+FemCode Collective
+Ayça BAYRAM
+Ayşen AKBAL
+İlke DERCAN
+
 import nltk
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.corpus import stopwords
